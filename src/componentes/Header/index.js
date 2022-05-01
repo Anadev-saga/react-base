@@ -1,1 +1,2 @@
-export { default } from "./Header";
+/* eslint-disable no-restricted-exports */
+export { default } from './Header';
